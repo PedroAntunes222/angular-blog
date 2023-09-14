@@ -1,6 +1,6 @@
 <div class="container__small-card">
 
-  <div class="container__small-card-content">
+  <div class="container__small-card-content" [routerLink]="['content', Id]">
     <div class="small-card__photo">
       <img
         src="{{ photoCover }}"
@@ -10,7 +10,7 @@
     </div>
 
     <div class="small-card__title">
-      <h1><a [routerLink]="['content', Id]" >{{ cardTitle }}</a></h1>
+      <h1>{{ cardTitle }}</h1>
     </div>
   </div>
 

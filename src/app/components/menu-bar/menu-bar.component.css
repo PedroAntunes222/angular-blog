@@ -1,4 +1,8 @@
 
+.container__menu-bar {
+  display: flex;
+  align-items: baseline;
+}
 
 .container__menu-bar > ul{
   display: flex;

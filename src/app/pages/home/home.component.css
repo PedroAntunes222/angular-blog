@@ -1,9 +1,16 @@
-.container__articles{
-  margin-top: 30px;
-
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
+.container__articles {
+  padding: 30px 15px;
+  background-color: #111111;
 }
 
+.articles__main {
+  display: flex;
+  place-content: center;
+  margin: auto;
+  gap: 20px;
+}
 
+.articles__others {
+  display: grid;
+  grid-template-columns: 50% 50%;
+}

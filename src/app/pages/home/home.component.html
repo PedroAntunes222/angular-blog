@@ -1,14 +1,14 @@
-<app-menu-title></app-menu-title>
 
 <div class="container__articles">
 
   <div class="articles__main">
 
     <app-big-card
-      [Id]="newPost.id"
-      [photoCover]="newPost.photoCover"
-      [cardTitle]="newPost.title"
-      [cardDescription]="newPost.description"
+    *ngFor="let post of newPost"
+      [Id]="post.id"
+      [photoCover]="post.photoCover"
+      [cardTitle]="post.title"
+      [cardDescription]="post.description"
     >
     </app-big-card>
 

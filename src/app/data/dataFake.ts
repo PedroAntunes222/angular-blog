@@ -27,4 +27,25 @@ export const dataFake: any[] = [
     photoCover:
       'https://midias.correiobraziliense.com.br/_midias/jpg/2022/07/22/675x450/1_xmen-26096415.jpeg?20220722171339?20220722171339',
   },
+  {
+    id: '4',
+    title: 'Novo filme dos X-men está em pós produção, afirma diretor',
+    description: 'bla blabla',
+    photoCover:
+      'https://midias.correiobraziliense.com.br/_midias/jpg/2022/07/22/675x450/1_xmen-26096415.jpeg?20220722171339?20220722171339',
+  },
+  {
+    id: '4',
+    title: 'Novo filme dos X-men está em pós produção, afirma diretor',
+    description: 'bla blabla',
+    photoCover:
+      'https://midias.correiobraziliense.com.br/_midias/jpg/2022/07/22/675x450/1_xmen-26096415.jpeg?20220722171339?20220722171339',
+  },
+  {
+    id: '4',
+    title: 'Novo filme dos X-men está em pós produção, afirma diretor',
+    description: 'bla blabla',
+    photoCover:
+      'https://midias.correiobraziliense.com.br/_midias/jpg/2022/07/22/675x450/1_xmen-26096415.jpeg?20220722171339?20220722171339',
+  },
 ];

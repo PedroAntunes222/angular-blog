@@ -1,5 +1,12 @@
 header {
-  margin-top: 15px;
+  background-color: #880909;
   display: flex;
-  justify-content: center;
+}
+
+footer {
+  background-color: #880909;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  display: flex;
+  place-content: center;
 }
