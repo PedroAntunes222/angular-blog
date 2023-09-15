@@ -1,6 +1,7 @@
-export const dataFake: any[] = [
+export const dataFake = [
   {
     id: '1',
+    category: 'livro',
     title: 'NOVO HOMEM DE FERRO EM 3D',
     description: 'marvel anuncia um novo filme do homem de ferro, confira',
     photoCover:
@@ -8,6 +9,7 @@ export const dataFake: any[] = [
   },
   {
     id: '2',
+    category: 'livro',
     title: 'Nova Série anunciada no Disney +',
     description: 'bla blabla',
     photoCover:
@@ -15,6 +17,7 @@ export const dataFake: any[] = [
   },
   {
     id: '3',
+    category: 'livro',
     title: 'Novo filme do pantera negra lançado em breve',
     description: 'bla blabla',
     photoCover:
@@ -22,6 +25,7 @@ export const dataFake: any[] = [
   },
   {
     id: '4',
+    category: 'jogo',
     title: 'Novo filme dos X-men está em pós produção, afirma diretor',
     description: 'bla blabla',
     photoCover:
@@ -29,6 +33,7 @@ export const dataFake: any[] = [
   },
   {
     id: '4',
+    category: 'jogo',
     title: 'Novo filme dos X-men está em pós produção, afirma diretor',
     description: 'bla blabla',
     photoCover:
@@ -36,6 +41,7 @@ export const dataFake: any[] = [
   },
   {
     id: '4',
+    category: 'filme',
     title: 'Novo filme dos X-men está em pós produção, afirma diretor',
     description: 'bla blabla',
     photoCover:
@@ -43,6 +49,7 @@ export const dataFake: any[] = [
   },
   {
     id: '4',
+    category: 'filme',
     title: 'Novo filme dos X-men está em pós produção, afirma diretor',
     description: 'bla blabla',
     photoCover:

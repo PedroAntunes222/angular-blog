@@ -11,6 +11,7 @@ import { HomeComponent } from './pages/home/home.component';
 import { ContentComponent } from './pages/content/content.component';
 import { FooterBarComponent } from './components/footer-bar/footer-bar.component';
 import { PostFormComponent } from './components/post-form/post-form.component';
+import { ContentListComponent } from './pages/content-list/content-list.component';
 
 
 @NgModule({
@@ -23,7 +24,8 @@ import { PostFormComponent } from './components/post-form/post-form.component';
     HomeComponent,
     ContentComponent,
     FooterBarComponent,
-    PostFormComponent
+    PostFormComponent,
+    ContentListComponent
   ],
   imports: [
     BrowserModule,
