@@ -10,7 +10,6 @@ import { SmallCardComponent } from './components/small-card/small-card.component
 import { HomeComponent } from './pages/home/home.component';
 import { ContentComponent } from './pages/content/content.component';
 import { FooterBarComponent } from './components/footer-bar/footer-bar.component';
-import { PostFormComponent } from './components/post-form/post-form.component';
 import { ContentListComponent } from './pages/content-list/content-list.component';
 
 
@@ -24,7 +23,6 @@ import { ContentListComponent } from './pages/content-list/content-list.componen
     HomeComponent,
     ContentComponent,
     FooterBarComponent,
-    PostFormComponent,
     ContentListComponent
   ],
   imports: [
