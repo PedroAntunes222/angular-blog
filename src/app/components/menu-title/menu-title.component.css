@@ -1,17 +1,23 @@
-.container__menu-title{
+.container__menu-title {
   cursor: pointer;
   color: white;
 }
 
-.container__menu-title > h1{
-  margin: 15px;
+.container__menu-title > h1 {
   font-size: 70px;
-  font-family: 'segoe UI';
+  font-family: "segoe UI";
   display: flex;
   justify-content: initial;
 }
 
-.container__menu-title > hr{
+.container__menu-title > hr {
   margin-top: 20px;
   margin-bottom: 5px;
+}
+
+@media screen and (max-width: 600px) {
+  .container__menu-title > h1 {
+    font-size: 40px;
+    margin-bottom: 10px;
+  }
 }

@@ -36,7 +36,7 @@ export const dataFake = [
       'Nam eget nibh tellus. Vivamus iaculis quam lectus, quis interdum dui rhoncus id. Ut in sapien velit. Ut rhoncus non risus nec iaculis. Praesent vitae ligula gravida, pharetra libero consectetur, suscipit dui. Nullam consectetur velit a ipsum facilisis, a porta elit pulvinar. Phasellus efficitur nulla at lectus lacinia, non volutpat lacus molestie. Donec at urna eleifend, accumsan nisl congue, tempus nunc. Aenean pharetra venenatis nisi eget viverra. Sed maximus pharetra quam non elementum. Maecenas vestibulum, orci vitae faucibus malesuada, urna tortor ultrices lectus, et viverra mi elit at mi.',
 
     photoCover:
-      'https://midias.correiobraziliense.com.br/_midias/jpg/2022/07/22/675x450/1_xmen-26096415.jpeg?20220722171339?20220722171339',
+      'https://disneyplusbrasil.com.br/wp-content/uploads/2021/07/Series-Marvel-Disney-Plus-1024x576.jpg',
   },
   {
     id: '5',
@@ -46,7 +46,7 @@ export const dataFake = [
       'Nam eget nibh tellus. Vivamus iaculis quam lectus, quis interdum dui rhoncus id. Ut in sapien velit. Ut rhoncus non risus nec iaculis. Praesent vitae ligula gravida, pharetra libero consectetur, suscipit dui. Nullam consectetur velit a ipsum facilisis, a porta elit pulvinar. Phasellus efficitur nulla at lectus lacinia, non volutpat lacus molestie. Donec at urna eleifend, accumsan nisl congue, tempus nunc. Aenean pharetra venenatis nisi eget viverra. Sed maximus pharetra quam non elementum. Maecenas vestibulum, orci vitae faucibus malesuada, urna tortor ultrices lectus, et viverra mi elit at mi.',
 
     photoCover:
-      'https://midias.correiobraziliense.com.br/_midias/jpg/2022/07/22/675x450/1_xmen-26096415.jpeg?20220722171339?20220722171339',
+      'https://disneyplusbrasil.com.br/wp-content/uploads/2021/07/Series-Marvel-Disney-Plus-1024x576.jpg',
   },
   {
     id: '6',
@@ -56,7 +56,7 @@ export const dataFake = [
       'Nam eget nibh tellus. Vivamus iaculis quam lectus, quis interdum dui rhoncus id. Ut in sapien velit. Ut rhoncus non risus nec iaculis. Praesent vitae ligula gravida, pharetra libero consectetur, suscipit dui. Nullam consectetur velit a ipsum facilisis, a porta elit pulvinar. Phasellus efficitur nulla at lectus lacinia, non volutpat lacus molestie. Donec at urna eleifend, accumsan nisl congue, tempus nunc. Aenean pharetra venenatis nisi eget viverra. Sed maximus pharetra quam non elementum. Maecenas vestibulum, orci vitae faucibus malesuada, urna tortor ultrices lectus, et viverra mi elit at mi.',
 
     photoCover:
-      'https://midias.correiobraziliense.com.br/_midias/jpg/2022/07/22/675x450/1_xmen-26096415.jpeg?20220722171339?20220722171339',
+      'https://disneyplusbrasil.com.br/wp-content/uploads/2021/07/Series-Marvel-Disney-Plus-1024x576.jpg',
   },
   {
     id: '7',
@@ -66,7 +66,7 @@ export const dataFake = [
       'Nam eget nibh tellus. Vivamus iaculis quam lectus, quis interdum dui rhoncus id. Ut in sapien velit. Ut rhoncus non risus nec iaculis. Praesent vitae ligula gravida, pharetra libero consectetur, suscipit dui. Nullam consectetur velit a ipsum facilisis, a porta elit pulvinar. Phasellus efficitur nulla at lectus lacinia, non volutpat lacus molestie. Donec at urna eleifend, accumsan nisl congue, tempus nunc. Aenean pharetra venenatis nisi eget viverra. Sed maximus pharetra quam non elementum. Maecenas vestibulum, orci vitae faucibus malesuada, urna tortor ultrices lectus, et viverra mi elit at mi.',
 
     photoCover:
-      'https://midias.correiobraziliense.com.br/_midias/jpg/2022/07/22/675x450/1_xmen-26096415.jpeg?20220722171339?20220722171339',
+      'https://disneyplusbrasil.com.br/wp-content/uploads/2021/07/Series-Marvel-Disney-Plus-1024x576.jpg',
   },
   {
     id: '8',
@@ -76,7 +76,7 @@ export const dataFake = [
       'Nam eget nibh tellus. Vivamus iaculis quam lectus, quis interdum dui rhoncus id. Ut in sapien velit. Ut rhoncus non risus nec iaculis. Praesent vitae ligula gravida, pharetra libero consectetur, suscipit dui. Nullam consectetur velit a ipsum facilisis, a porta elit pulvinar. Phasellus efficitur nulla at lectus lacinia, non volutpat lacus molestie. Donec at urna eleifend, accumsan nisl congue, tempus nunc. Aenean pharetra venenatis nisi eget viverra. Sed maximus pharetra quam non elementum. Maecenas vestibulum, orci vitae faucibus malesuada, urna tortor ultrices lectus, et viverra mi elit at mi.',
 
     photoCover:
-      'https://midias.correiobraziliense.com.br/_midias/jpg/2022/07/22/675x450/1_xmen-26096415.jpeg?20220722171339?20220722171339',
+      'https://disneyplusbrasil.com.br/wp-content/uploads/2021/07/Series-Marvel-Disney-Plus-1024x576.jpg',
   },
   {
     id: '9',
@@ -86,7 +86,7 @@ export const dataFake = [
       'Nam eget nibh tellus. Vivamus iaculis quam lectus, quis interdum dui rhoncus id. Ut in sapien velit. Ut rhoncus non risus nec iaculis. Praesent vitae ligula gravida, pharetra libero consectetur, suscipit dui. Nullam consectetur velit a ipsum facilisis, a porta elit pulvinar. Phasellus efficitur nulla at lectus lacinia, non volutpat lacus molestie. Donec at urna eleifend, accumsan nisl congue, tempus nunc. Aenean pharetra venenatis nisi eget viverra. Sed maximus pharetra quam non elementum. Maecenas vestibulum, orci vitae faucibus malesuada, urna tortor ultrices lectus, et viverra mi elit at mi.',
 
     photoCover:
-      'https://midias.correiobraziliense.com.br/_midias/jpg/2022/07/22/675x450/1_xmen-26096415.jpeg?20220722171339?20220722171339',
+      'https://disneyplusbrasil.com.br/wp-content/uploads/2021/07/Series-Marvel-Disney-Plus-1024x576.jpg',
   },
   {
     id: '10',
@@ -96,7 +96,7 @@ export const dataFake = [
       'Nam eget nibh tellus. Vivamus iaculis quam lectus, quis interdum dui rhoncus id. Ut in sapien velit. Ut rhoncus non risus nec iaculis. Praesent vitae ligula gravida, pharetra libero consectetur, suscipit dui. Nullam consectetur velit a ipsum facilisis, a porta elit pulvinar. Phasellus efficitur nulla at lectus lacinia, non volutpat lacus molestie. Donec at urna eleifend, accumsan nisl congue, tempus nunc. Aenean pharetra venenatis nisi eget viverra. Sed maximus pharetra quam non elementum. Maecenas vestibulum, orci vitae faucibus malesuada, urna tortor ultrices lectus, et viverra mi elit at mi.',
 
     photoCover:
-      'https://midias.correiobraziliense.com.br/_midias/jpg/2022/07/22/675x450/1_xmen-26096415.jpeg?20220722171339?20220722171339',
+      'https://disneyplusbrasil.com.br/wp-content/uploads/2021/07/Series-Marvel-Disney-Plus-1024x576.jpg',
   },
   {
     id: '11',
@@ -106,6 +106,6 @@ export const dataFake = [
       'Nam eget nibh tellus. Vivamus iaculis quam lectus, quis interdum dui rhoncus id. Ut in sapien velit. Ut rhoncus non risus nec iaculis. Praesent vitae ligula gravida, pharetra libero consectetur, suscipit dui. Nullam consectetur velit a ipsum facilisis, a porta elit pulvinar. Phasellus efficitur nulla at lectus lacinia, non volutpat lacus molestie. Donec at urna eleifend, accumsan nisl congue, tempus nunc. Aenean pharetra venenatis nisi eget viverra. Sed maximus pharetra quam non elementum. Maecenas vestibulum, orci vitae faucibus malesuada, urna tortor ultrices lectus, et viverra mi elit at mi.',
 
     photoCover:
-      'https://midias.correiobraziliense.com.br/_midias/jpg/2022/07/22/675x450/1_xmen-26096415.jpeg?20220722171339?20220722171339',
+      'https://disneyplusbrasil.com.br/wp-content/uploads/2021/07/Series-Marvel-Disney-Plus-1024x576.jpg',
   },
 ];

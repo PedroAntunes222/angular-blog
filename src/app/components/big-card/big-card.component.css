@@ -3,7 +3,21 @@
   width: min-content;
   display: grid;
   margin: auto;
-  margin-bottom: 30px;
+  position: relative;
+}
+
+.big-card__info {
+  display: none;
+  position: absolute;
+  bottom: 0;
+  padding: 10px;
+  background-color: rgba(0, 0, 1, .7) ;
+  height: 100%;
+}
+
+.container__big-card:hover > .big-card__info {
+  display: grid;
+  place-content: end;
 }
 
 .big-card__title > h1 {

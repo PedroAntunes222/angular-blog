@@ -8,12 +8,29 @@
   grid-template-columns: repeat(4, 1fr);
   place-content: center;
   margin: auto;
-  gap: 20px;
+  gap: 10px;
   width: min-content;
+  margin-bottom: 30px;
 }
 
 .articles__others {
   display: grid;
   grid-template-columns: 50% 50%;
   row-gap: 10px;
+}
+
+@media screen and (max-width: 1500px) {
+  .articles__main {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media screen and (max-width: 750px) {
+  .articles__main {
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  .articles__others {
+    grid-template-columns: 100%;
+  }
 }

@@ -3,5 +3,7 @@
   padding: 30px 15px;
   background-color: #111111;
   display: grid;
+  gap: 10px;
+  place-content: baseline;
   grid-template-columns: repeat(4, 1fr);
 }

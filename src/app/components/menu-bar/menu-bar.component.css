@@ -1,16 +1,22 @@
-
 .container__menu-bar {
   display: flex;
   align-items: baseline;
+  padding: 15px;
+  gap: 10px;
 }
 
-.container__menu-bar > ul{
+.container__menu-bar > ul {
   display: flex;
   flex-direction: row;
 }
 
-.container__menu-bar > ul > li{
+.container__menu-bar > ul > li {
   margin-right: 20px;
   list-style: none;
-}
+} 
 
+@media screen and (max-width: 460px) {
+  .container__menu-bar {
+    display: grid;
+  }
+}
