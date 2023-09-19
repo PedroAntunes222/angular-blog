@@ -4,13 +4,16 @@
 }
 
 .articles__main {
-  display: flex;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
   place-content: center;
   margin: auto;
   gap: 20px;
+  width: min-content;
 }
 
 .articles__others {
   display: grid;
   grid-template-columns: 50% 50%;
+  row-gap: 10px;
 }

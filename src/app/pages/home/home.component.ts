@@ -17,7 +17,7 @@ export class HomeComponent implements OnInit {
   }
 
   loadPosts() {
-    this.newPost = dataFake.slice(0, 3);
-    this.posts = dataFake.slice(3);
+    this.newPost = dataFake.slice(0, 4);
+    this.posts = dataFake.slice(4);
   }
 }

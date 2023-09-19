@@ -1,4 +1,5 @@
 .container__menu-title{
+  cursor: pointer;
   color: white;
 }
 
